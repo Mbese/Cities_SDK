@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="medium_size">18sp</dimen>
+    <dimen name="default_padding">8dp</dimen>
+    <dimen name="default_padding_X2">16dp</dimen>
+    <dimen name="padding_left">10dp</dimen>
+    <dimen name="padding_right">10dp</dimen>
+</resources>

@@ -1,7 +1,5 @@
 package com.example.superheros.model
 
-import androidx.test.platform.app.InstrumentationRegistry
-import org.junit.Assert.*
 import org.junit.Before
 
 class AppDatabaseTest {

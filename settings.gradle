@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='superheros'
+rootProject.name = "Cities SDK"
